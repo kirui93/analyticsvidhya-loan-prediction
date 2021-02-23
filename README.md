@@ -37,10 +37,12 @@ The data science process followed in the notebook is:
   6. Tuning the machine learning model parameters.
   7. Generating a CSV file for submission.
 
+### Ranking
+
 The challenge is still on and I am still working on a better model. 
 The current model I have (**Random forest model**) has a maximum accuracy of **78%**, which ranks me at position **3708 out of 8383 participants**. 
 
 Working is still up and running!
 
-
+### Final Results
 Happy waiting (for final solution)!!! 
